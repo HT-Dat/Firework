@@ -1,3 +1,7 @@
-# Firework
-Code đú theo trend pháo hoa của mình. Viết bằng PASCAL. 
-Cái này viết với hỗ trợ của thư viện Wingraph, có kèm theo chung với code là wingraph.pas để chung với code là chạy được.
+# Pascal Firework Animation
+## Introduction
+Simple Pascal program that simulate firework explosion. Make this while learning graphics in Pascal
+## Technologies
+Only Pascal
+## Launch
+Require Free Pascal to compile. wingraph.pas library need to be in the same folder with Firework.pas in order to compile probably
