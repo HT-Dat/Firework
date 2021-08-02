@@ -1,7 +1,7 @@
-# Pascal Firework Animation
+# Pascal Firework Particle Simulation
 ![](https://github.com/TienDat06/Firework/blob/master/10000000_487107019144395_2463850535396245422_n.gif?raw=true)
 ## Introduction
-Simple Pascal program that simulate firework explosion. Make this while learning graphics in Pascal
+Simple Pascal program that simulate firework explosion Particles. I made this while learning graphics in Pascal
 ## Technologies
 Only Pascal
 ## Launch
